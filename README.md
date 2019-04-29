@@ -1,2 +1,2 @@
 # Tamil_lecture_Notes
-Python Based tamil lecturen notes application
+Python Based tamil lecture notes application
