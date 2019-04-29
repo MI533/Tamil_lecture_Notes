@@ -80,7 +80,7 @@ try:
          text = msg.as_string() 
          s.sendmail(fromaddr, toaddr, text) 
          #os.remove(src)
-         os.remove(dst)
+         #os.remove(dst)
          s.quit()
          
          
