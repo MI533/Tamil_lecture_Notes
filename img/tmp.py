@@ -86,6 +86,6 @@ try:
          
          
 except sr.UnknownValueError:  
-   print("Srory could not understand audio")  
+   print("Sorry could not understand audio")  
 except sr.RequestError as e:  
    print("Error; {0}".format(e)) 
